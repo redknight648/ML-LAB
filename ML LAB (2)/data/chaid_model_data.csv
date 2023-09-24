@@ -1,0 +1,615 @@
+Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome_Label,CoapplicantIncome_Label,LoanAmount_Label,Term,Credit_History,Property_Area,Decision
+Male,No,No,Graduate,No,Low,Low,Average,40Years,Yes,Urban,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,No,Graduate,Yes,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Two,Graduate,Yes,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,One,Graduate,No,Mid,Mid,More,30Years,Yes,Semiurban,N
+Male,Yes,Two,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,Two,Graduate,No,Low,Low,Few,10Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,No,One,Not Graduate,No,Low,Low,Few,20Years,Yes,Urban,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,No,Urban,N
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Male,Yes,One,Graduate,No,Low,Low,More,30Years,Yes,Urban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Urban,N
+Female,No,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,N
+Male,No,One,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,Threeormore,Graduate,No,Mid,Low,More,30Years,Yes,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,More,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,No,Urban,N
+Female,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,N
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,Yes,Low,Low,Few,30Years,Yes,Urban,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,One,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Female,Yes,No,Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,Yes,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Female,Yes,One,Graduate,Yes,Mid,Low,Average,30Years,No,Urban,N
+Male,Yes,Two,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,No,Not Graduate,Yes,Low,Low,Average,15Years,No,Rural,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Female,No,No,Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,N
+Male,No,No,Not Graduate,No,Low,Low,Average,15Years,No,Urban,N
+Male,Yes,One,Graduate,No,Mid,Low,More,30Years,Yes,Urban,Y
+Male,Yes,Threeormore,Not Graduate,Yes,Low,Low,Average,5Years,Yes,Urban,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Two,Not Graduate,Yes,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Few,25Years,Yes,Semiurban,Y
+Male,Yes,Threeormore,Not Graduate,No,Low,Low,Few,25Years,No,Semiurban,N
+Male,Yes,Threeormore,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,40Years,Yes,Urban,N
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Male,Yes,One,Graduate,Yes,Low,Low,Average,30Years,Yes,Urban,N
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,25Years,No,Semiurban,N
+Male,Yes,Threeormore,Not Graduate,Yes,Low,Low,Average,30Years,No,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,N
+Male,Yes,One,Graduate,No,Low,Low,Few,20Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,15Years,Yes,Semiurban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Not Graduate,No,Low,Low,Few,10Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,N
+Female,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,15Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,15Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Mid,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,One,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,Two,Graduate,No,Mid,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Male,Yes,Threeormore,Not Graduate,No,Low,Low,Few,40Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Female,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Female,No,One,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,No,Mid,Low,Average,15Years,Yes,Rural,Y
+Female,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Female,No,No,Graduate,No,Mid,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,No,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Rural,Y
+Female,Yes,Threeormore,Graduate,No,Mid,Low,More,30Years,Yes,Rural,Y
+Male,No,No,Graduate,No,Low,Low,More,30Years,Yes,Rural,Y
+Male,Yes,One,Graduate,Yes,Mid,Low,Average,15Years,No,Urban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,No,No,Graduate,Yes,Mid,Low,More,40Years,No,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,Yes,Low,Low,Few,10Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,N
+Female,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Rural,N
+Male,Yes,Two,Graduate,Yes,Low,Low,Few,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Mid,Low,Average,30Years,No,Semiurban,N
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Graduate,Yes,Low,Low,Average,15Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Mid,Low,Average,15Years,Yes,Urban,Y
+Female,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Female,Yes,Two,Graduate,No,Mid,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,One,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,Yes,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,Threeormore,Graduate,No,Mid,Low,More,15Years,No,Semiurban,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,No,Rural,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,15Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,15Years,Yes,Rural,Y
+Female,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,No,Graduate,No,Low,Low,Few,40Years,No,Semiurban,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Rural,Y
+Male,Yes,Threeormore,Graduate,No,High,Low,More,25Years,Yes,Urban,Y
+Male,Yes,Threeormore,Not Graduate,No,Low,Low,Few,15Years,Yes,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,Yes,Low,Low,Few,30Years,Yes,Semiurban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Threeormore,Graduate,No,Low,Mid,More,30Years,No,Semiurban,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,40Years,No,Urban,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Male,No,No,Graduate,No,Low,Low,Few,30Years,No,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,Few,15Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,No,Mid,Low,Average,30Years,Yes,Semiurban,N
+Female,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,Yes,Mid,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,Yes,Low,Low,Few,25Years,No,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,No,Rural,Y
+Male,Yes,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,15Years,Yes,Rural,Y
+Male,No,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Rural,Y
+Male,No,No,Graduate,No,Mid,Low,Average,30Years,Yes,Semiurban,N
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,N
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Female,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,Yes,Mid,Low,Few,30Years,Yes,Urban,N
+Male,Yes,One,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,No,Two,Graduate,No,Low,Low,Average,30Years,No,Semiurban,Y
+Male,Yes,Threeormore,Not Graduate,No,Low,Low,Average,15Years,Yes,Urban,N
+Male,Yes,One,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,No,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Rural,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,N
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,N
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,One,Graduate,Yes,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Threeormore,Not Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Threeormore,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Few,30Years,No,Semiurban,N
+Female,Yes,Two,Graduate,No,Low,Low,Average,30Years,No,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,No,Urban,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,No,Not Graduate,Yes,Low,Low,Average,30Years,Yes,Urban,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,40Years,Yes,Semiurban,Y
+Male,No,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,15Years,Yes,Rural,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,15Years,Yes,Rural,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Female,No,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Urban,Y
+Female,No,One,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,One,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,One,Not Graduate,No,Low,Low,Average,15Years,Yes,Urban,N
+Male,No,No,Graduate,No,Low,Low,Average,5Years,Yes,Urban,Y
+Male,Yes,Two,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,Yes,Low,Low,Average,15Years,Yes,Urban,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,One,Not Graduate,No,Low,Low,Average,15Years,Yes,Urban,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,40Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Female,No,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Male,No,No,Not Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,One,Not Graduate,No,Low,Low,Average,15Years,Yes,Semiurban,Y
+Male,No,No,Graduate,Yes,Mid,Low,Average,30Years,No,Urban,N
+Female,No,Threeormore,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,Yes,Threeormore,Graduate,No,Low,Low,Few,30Years,Yes,Urban,N
+Male,Yes,No,Graduate,No,Mid,Low,More,30Years,Yes,Rural,N
+Male,Yes,Threeormore,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,N
+Male,Yes,One,Graduate,No,Low,Low,More,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,No,One,Graduate,No,Low,Low,Average,3Years,Yes,Semiurban,N
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,No,Urban,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Female,No,One,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Mid,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Mid,Low,More,30Years,Yes,Semiurban,Y
+Female,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,One,Not Graduate,Yes,Low,Low,Average,30Years,No,Urban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Few,15Years,Yes,Urban,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Mid,Low,Few,30Years,Yes,Rural,N
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Rural,Y
+Female,No,No,Graduate,Yes,Low,Low,Few,25Years,Yes,Semiurban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Female,No,Two,Graduate,No,Low,Low,Average,40Years,No,Urban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Female,No,No,Graduate,No,Low,Low,Average,40Years,Yes,Rural,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Male,Yes,No,Not Graduate,No,Low,Low,Few,30Years,No,Urban,N
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,One,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Male,No,No,Graduate,No,Mid,Low,More,30Years,Yes,Rural,N
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Rural,Y
+Male,Yes,Two,Graduate,Yes,Low,Low,Average,7Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,One,Not Graduate,No,Low,Low,Average,15Years,Yes,Urban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Female,No,One,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Threeormore,Graduate,No,Mid,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,One,Graduate,Yes,Low,Low,More,30Years,No,Rural,N
+Male,No,No,Graduate,No,Low,Low,Average,30Years,No,Rural,Y
+Male,Yes,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,No,One,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,High,Low,More,15Years,Yes,Urban,Y
+Male,Yes,One,Graduate,Yes,Low,Low,Average,15Years,Yes,Urban,Y
+Male,Yes,One,Graduate,Yes,Low,Low,Few,15Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Two,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,Threeormore,Not Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,Threeormore,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Rural,N
+Male,Yes,One,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Threeormore,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,More,30Years,Yes,Rural,N
+Male,Yes,Threeormore,Graduate,No,Low,Low,Few,30Years,Yes,Rural,Y
+Female,Yes,No,Graduate,Yes,Low,Low,Average,30Years,No,Rural,N
+Female,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Average,15Years,Yes,Urban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,One,Graduate,No,Low,Low,Few,30Years,Yes,Urban,N
+Male,Yes,No,Not Graduate,No,Low,Low,Few,40Years,No,Urban,N
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,No,One,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,25Years,Yes,Urban,Y
+Male,No,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,No,No,Graduate,No,Low,Low,Few,40Years,Yes,Semiurban,N
+Male,No,No,Graduate,No,Low,Low,Average,40Years,No,Rural,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Mid,Low,More,30Years,Yes,Rural,N
+Female,No,No,Graduate,Yes,Mid,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,Yes,Low,Low,More,25Years,Yes,Rural,Y
+Male,No,One,Graduate,No,Low,Low,Average,15Years,No,Urban,N
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,15Years,Yes,Urban,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Few,40Years,Yes,Urban,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Few,30Years,Yes,Urban,N
+Male,No,One,Graduate,No,Low,Low,Average,15Years,Yes,Urban,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,Threeormore,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,15Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,No,Urban,N
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,Two,Not Graduate,No,Low,Low,Few,15Years,No,Urban,N
+Male,No,No,Not Graduate,No,Low,Low,Few,25Years,Yes,Rural,N
+Male,No,No,Graduate,No,Low,Mid,Average,30Years,Yes,Semiurban,Y
+Female,No,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,N
+Female,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Female,No,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Rural,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,25Years,No,Semiurban,N
+Male,Yes,Threeormore,Graduate,No,High,Low,More,30Years,No,Rural,N
+Female,No,One,Not Graduate,Yes,Low,Low,Few,30Years,Yes,Semiurban,N
+Male,Yes,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,Yes,No,Not Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Female,No,One,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Male,Yes,Two,Graduate,Yes,Low,Mid,Average,30Years,Yes,Urban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Not Graduate,No,Low,Low,Few,30Years,No,Urban,N
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Male,Yes,No,Graduate,No,Mid,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,One,Not Graduate,No,Low,Low,Few,30Years,Yes,Rural,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Rural,Y
+Male,No,No,Not Graduate,No,Low,Low,Few,15Years,Yes,Urban,Y
+Female,No,One,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,No,No,Graduate,No,Mid,Low,More,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Female,No,No,Graduate,No,Mid,Low,Few,20Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,No,No,Graduate,Yes,Mid,Low,Average,30Years,No,Urban,N
+Female,Yes,No,Not Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,Threeormore,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,One,Graduate,No,Mid,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,25Years,Yes,Rural,Y
+Male,Yes,One,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Rural,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,No,One,Not Graduate,Yes,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,Yes,Two,Not Graduate,No,Low,Low,Few,25Years,No,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,Few,15Years,No,Rural,Y
+Male,No,No,Graduate,Yes,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Male,No,Two,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,N
+Male,Yes,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,15Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,One,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,No,Semiurban,N
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Threeormore,Not Graduate,No,Low,Low,Few,15Years,No,Urban,N
+Male,Yes,No,Graduate,No,Mid,Low,Average,30Years,Yes,Semiurban,Y
+Female,Yes,Two,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,N
+Male,Yes,One,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Not Graduate,No,Low,Low,Average,15Years,No,Rural,N
+Male,Yes,Threeormore,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,Yes,Low,Low,Few,30Years,Yes,Urban,Y
+Male,No,Two,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Two,Graduate,Yes,Mid,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,25Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,One,Graduate,Yes,Mid,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Few,30Years,Yes,Urban,N
+Female,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Threeormore,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Mid,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,Two,Graduate,No,Low,Low,Few,30Years,No,Rural,N
+Male,Yes,One,Graduate,No,Mid,Low,More,30Years,Yes,Urban,N
+Male,Yes,Two,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,N
+Male,No,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,One,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Not Graduate,Yes,Mid,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Female,Yes,One,Graduate,No,Low,Low,Average,7Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,1Year,Yes,Urban,Y
+Male,Yes,One,Graduate,Yes,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Female,No,No,Graduate,No,Low,Low,Average,40Years,Yes,Rural,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,N
+Male,Yes,No,Not Graduate,No,Low,Low,Average,25Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Mid,Low,More,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,N
+Male,Yes,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Urban,Y
+Female,No,One,Graduate,No,Mid,Low,Few,30Years,Yes,Urban,Y
+Male,No,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Rural,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Few,15Years,Yes,Semiurban,N
+Male,No,No,Graduate,No,Low,Low,More,30Years,Yes,Rural,N
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,Yes,Two,Graduate,No,Low,Low,Average,40Years,Yes,Semiurban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,N
+Female,No,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Rural,N
+Male,Yes,Two,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,Threeormore,Graduate,Yes,Low,Low,Few,30Years,Yes,Rural,Y
+Male,Yes,Two,Graduate,Yes,Low,Low,More,30Years,Yes,Rural,Y
+Male,No,No,Graduate,No,Low,Low,More,30Years,Yes,Semiurban,N
+Male,Yes,Two,Graduate,Yes,Mid,Low,More,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,One,Not Graduate,No,Low,Low,Average,30Years,No,Semiurban,Y
+Male,No,One,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,No,Two,Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,No,One,Graduate,No,Mid,Low,Average,30Years,No,Semiurban,N
+Female,No,No,Not Graduate,Yes,Mid,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Not Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,More,30Years,Yes,Urban,Y
+Male,No,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Rural,N
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,15Years,Yes,Rural,Y
+Female,Yes,One,Graduate,No,Low,Low,Average,15Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,No,Semiurban,N
+Female,No,One,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,One,Not Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Female,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,No,Not Graduate,No,Low,Low,Few,3Years,Yes,Semiurban,N
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Two,Graduate,Yes,Low,Low,Average,30Years,No,Rural,N
+Male,Yes,One,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,15Years,No,Rural,N
+Male,Yes,One,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,Threeormore,Graduate,Yes,Mid,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Female,Yes,One,Graduate,Yes,Mid,Low,More,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,No,Not Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,No,Rural,Y
+Male,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Urban,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,No,Urban,N
+Male,Yes,Two,Graduate,No,Mid,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,40Years,Yes,Semiurban,N
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,N
+Male,Yes,Two,Graduate,No,Low,Low,Average,7Years,Yes,Urban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,No,Semiurban,N
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,No,No,Graduate,No,Low,Mid,Few,30Years,Yes,Urban,N
+Female,Yes,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,One,Graduate,No,Low,Low,Few,30Years,Yes,Rural,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,No,Rural,N
+Male,Yes,One,Graduate,No,Low,Low,Average,7Years,Yes,Rural,N
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Female,No,No,Not Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,Yes,Low,Low,Average,30Years,No,Semiurban,N
+Male,Yes,No,Graduate,No,Low,Low,Few,15Years,Yes,Semiurban,Y
+Male,Yes,Two,Graduate,Yes,Low,Low,Average,20Years,Yes,Semiurban,N
+Male,No,Threeormore,Graduate,Yes,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,15Years,Yes,Rural,Y
+Male,Yes,No,Graduate,Yes,Mid,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Two,Not Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,N
+Male,No,Two,Graduate,No,Low,Low,Few,30Years,No,Semiurban,N
+Male,Yes,No,Graduate,Yes,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Female,No,Threeormore,Graduate,No,Low,Mid,More,15Years,Yes,Urban,N
+Male,Yes,No,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,No,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,Yes,One,Graduate,No,Mid,Low,More,30Years,Yes,Semiurban,Y
+Male,Yes,No,Not Graduate,No,Low,Low,More,15Years,Yes,Urban,N
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Semiurban,Y
+Male,Yes,Two,Not Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Male,Yes,No,Graduate,No,Low,Low,Average,30Years,Yes,Rural,Y
+Female,No,No,Graduate,No,Low,Low,Few,30Years,Yes,Rural,Y
+Male,Yes,Threeormore,Graduate,No,Low,Low,Few,15Years,Yes,Rural,Y
+Male,Yes,One,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Male,Yes,Two,Graduate,No,Low,Low,Average,30Years,Yes,Urban,Y
+Female,No,No,Graduate,Yes,Low,Low,Average,30Years,No,Semiurban,N
